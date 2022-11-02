@@ -2,7 +2,7 @@
 
 > ### Projeto para entrevista finalizado 👌
 >
->⚠️ Com o projeto aberto no VS Code, abra dois terminais de sua preferencia (recomendo bash), um para o frontEnd e outro para Server.
+>>⚠️ Com o projeto aberto no VS Code, abra dois terminais de sua preferencia (recomendo bash), um para o frontEnd e outro para Server.
 >
 >>⚠️ Após, para iniciar o projeto, instale as dependencias com "npm i" (pelo yarn, em algumas situações de teste não funcionou, não sei o motivo, mas somente algumas vezes)
 para start use: npm start para ambos.

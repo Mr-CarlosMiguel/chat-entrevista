@@ -14,6 +14,7 @@ para start use: npm start para ambos.
 > ### Sobre as tecnologias utilizadas:
 >
 > >**Express:** _O Express fornece uma camada fina de recursos fundamentais para aplicativos da web, sem obscurecer os recursos do Node.js_
+>
 >> **Nodemon:** _Utilizado para reiniciar o servidor automaticamente_
 > 
 >>**Socket.io:** _Fornece um canal de comunicação de baixa sobrecarga entre o servidor e o cliente. Uma de suas vantagens também é se a conexão for perdida, o cliente tentará se reconectar automaticamente e caso a conexão WebSocket não seja possível, ela retornará para a pesquisa longa HTTP_
